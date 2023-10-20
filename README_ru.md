@@ -1,7 +1,7 @@
 
 ---
 
-# Hello, my name is Igor! 
+# Привет, меня зовут Игорь! 
 
 <table align="center">
   <tr>
@@ -39,13 +39,13 @@
 
 ---
 
-### :man_technologist: Briefly About Myself: 
+### :man_technologist: Немного о себе: 
 
-Currently, I am studying programming, and as a creative individual, I have been inspired by the prospect of working as a Frontend Developer.
+В настоящее время я занимаюсь изучением программирования, и как творческая личность, меня вдохновляют перспективы работы на позиции Frontend Developer.
 
- I started my career as a design engineer in 2005. Since 2007, I have been working in an innovative flexible packaging manufacturing company, progressing from a production preparation engineer to the position of Chief Technologist.
+Моя карьера началась в 2005 году, в должности инженера-конструктора. С 2007 года я трудился в инновационной компании по производству гибкой упаковки и постепенно продвигался от инженера по подготовке производства до должности Главного технолога.
 
-I strive for self-improvement and constantly expand my knowledge and skills. My goal is professional growth and achieving outstanding results that contribute to the success of the company. I am willing to take responsibility and work in a dynamic environment where I can make a contribution and develop professionally.
+Я стремлюсь к самосовершенствованию и постоянно расширяю свои знания и навыки. Моя цель - профессиональный рост и достижение выдающихся результатов, способствующих успеху компании. Я готов взять на себя ответственность и работать в динамичной среде, где я могу внести свой вклад и профессионально развиваться.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -130,10 +130,10 @@ alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 
 ### Languages:
 
-- **English:** B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
-- **Russian:** Native
-- **Ukrainian:** Native
-- **Polish** - In progress..
+- **Английский:** B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
+- **Русский:** Родной
+- **Украинский:** Родной
+- **Польский** - В процессе изучения..
 
 ---
 

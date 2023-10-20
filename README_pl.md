@@ -1,7 +1,7 @@
 
 ---
 
-# Hello, my name is Igor! 
+# Witaj, nazywam się Igor!
 
 <table align="center">
   <tr>
@@ -21,16 +21,16 @@
     <td>
       <table>
         <tr>
-          <td><a href="README.md"><img src="assets/icons/united-kingdom.png" height="40"> English</a></td>
+          <td><a href="README.MD"><img src="assets/icons/united-kingdom.png" height="40"> English</a></td>
         </tr>
         <tr>
-          <td><a href="README_ua.md"><img src="assets/icons/ukraine.png" height="40">Ukraine</a></td>
+          <td><a href="README_ua.MD"><img src="assets/icons/ukraine.png" height="40">Ukraine</a></td>
         </tr>
         <tr>
-          <td><a href="README_pl.md"><img src="assets/icons/republic-of-poland.png" height="40"> Polska</a></td>
+          <td><a href="README_pl.MD"><img src="assets/icons/republic-of-poland.png" height="40"> Polska</a></td>
         </tr>
          <tr>
-          <td><a href="README_ru.md"><img src="assets/icons/russia.png" height="40">Russian</a></td>
+          <td><a href="README_ru.MD"><img src="assets/icons/russia.png" height="40">Russian</a></td>
         </tr>
       </table>
     </td>
@@ -39,13 +39,13 @@
 
 ---
 
-### :man_technologist: Briefly About Myself: 
+### :man_technologist: Krótko o sobie:
 
-Currently, I am studying programming, and as a creative individual, I have been inspired by the prospect of working as a Frontend Developer.
+Obecnie uczę się programowania, a jako osoba kreatywna, inspiruje mnie perspektywa pracy jako Frontend Developer.
 
- I started my career as a design engineer in 2005. Since 2007, I have been working in an innovative flexible packaging manufacturing company, progressing from a production preparation engineer to the position of Chief Technologist.
+Rozpocząłem swoją karierę jako inżynier projektant w 2005 roku. Od 2007 roku pracuję w innowacyjnej firmie produkującej elastyczną opakowalnię, awansując z inżyniera do przygotowania produkcji na stanowisko Głównego Technologa.
 
-I strive for self-improvement and constantly expand my knowledge and skills. My goal is professional growth and achieving outstanding results that contribute to the success of the company. I am willing to take responsibility and work in a dynamic environment where I can make a contribution and develop professionally.
+Dążę do ciągłego samorozwoju i rozszerzania swojej wiedzy i umiejętności. Moim celem jest rozwijanie się zawodowo i osiąganie doskonałych wyników, które przyczyniają się do sukcesu firmy. Jestem gotów przejmować odpowiedzialność i pracować w dynamicznym środowisku, gdzie mogę wnosić swój wkład i rozwijać się zawodowo.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -130,10 +130,10 @@ alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 
 ### Languages:
 
-- **English:** B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
-- **Russian:** Native
-- **Ukrainian:** Native
-- **Polish** - In progress..
+- **Angielski:** B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
+- **Rosyjski:** Rodzimy
+- **Ukraiński:** Rodzimy
+- **Polski:** - W trakcie...
 
 ---
 
