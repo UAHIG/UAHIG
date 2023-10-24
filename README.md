@@ -70,7 +70,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 - :link: [![Git Bage](https://img.shields.io/badge/-MemeSliderOnlyCSS-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/MemeSlider-onlyCSS/)
 - :link: [![Git Bage](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/API_Image-Gallery/)
 ---
-### 🤝 Social natworks:
+### 🤝 Social networks:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/uahig" target="_blank">
