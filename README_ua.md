@@ -107,7 +107,7 @@
 
 ---
 
-### Code example: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
+### Зразок коду: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
 ```javascript
 function Counter() { let count = 0;
 this.up = function() { return ++count; }; this.down = function() { return –count; }; }
