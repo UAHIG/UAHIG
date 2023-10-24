@@ -71,7 +71,7 @@ Dążę do ciągłego samorozwoju i rozszerzania swojej wiedzy i umiejętności.
 - :link: [![Git Bage](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/API_Image-Gallery/)
 ---
 
-### 🤝 Social natworks:
+### 🤝 Socjalne media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/uahig" target="_blank">
@@ -87,7 +87,7 @@ Dążę do ciągłego samorozwoju i rozszerzania swojej wiedzy i umiejętności.
 
 ---
 
-### 💻 Technologies:
+### 💻 Technologie:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -115,7 +115,7 @@ this.up = function() { return ++count; }; this.down = function() { return –cou
 let counter = new Counter();
 alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 ```
-### 🛠 Tools:
+### 🛠 Narzędzia:
 
 <div>
  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp; -->
@@ -138,7 +138,7 @@ alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 | EPAM Front-End Self-Paced Online Program                        | 03/2022 - 08/2022 |
 | RS School Course «JavaScript/Front-end. Stage 0»                | 07/2023 - 10/2023 |
 
-### Languages:
+### Języki:
 
 - **Angielski:** B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
 - **Rosyjski:** Rodzimy
