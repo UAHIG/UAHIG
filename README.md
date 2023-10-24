@@ -70,38 +70,11 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 - :link: [![Git Bage](https://img.shields.io/badge/-Aurora-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Aurora/)
 - :link: [![Git Bage](https://img.shields.io/badge/-YouTubeClone-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Youtube-clone/)
 
-<table>
-  <tr>
-    <td>
-      :link: [![Git Badge](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/API_Image-Gallery/)
-    </td>
-    <td>
-      :link: [![Git Badge](https://img.shields.io/badge/-JSAudioPlayer-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-AudioPlayer/)
-    </td>
-    <td>
-      :link: [![Git Badge](https://img.shields.io/badge/-JSPocketGame-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-PocketGame/)
-    </td>
-  </tr>
-  <tr>
-    <td>
-      :link: [![Git Badge](https://img.shields.io/badge/-MemeSliderOnlyCSS-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/MemeSlider-onlyCSS/)
-    </td>
-    <td>
-      :link: [![Git Badge](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
-    </td>
-    <td>
-      :link: [![Git Badge](https://img.shields.io/badge/-Aurora-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Aurora/)
-    </td>
-  </tr>
-  <tr>
-    <td>
-      :link: [![Git Badge](https://img.shields.io/badge/-YouTubeClone-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Youtube-clone/)
-    </td>
-    <td></td> <!-- Пустая ячейка, если вам нужно только две ссылки в последнем столбце -->
-    <td></td> <!-- Пустая ячейка, если вам нужно только две ссылки в последнем столбце -->
-  </tr>
-</table>
-
+| Столбец 1 | Столбец 2 | Столбец 3 |
+|-----------|-----------|-----------|
+| [:link: APIImageGallery](https://uahig.github.io/API_Image-Gallery/) | [:link: JSAudioPlayer](https://uahig.github.io/JS-AudioPlayer/) | [:link: JSPocketGame](https://uahig.github.io/JS-PocketGame/) |
+| [:link: MemeSliderOnlyCSS](https://uahig.github.io/MemeSlider-onlyCSS/) | [:link: LibraryLandingPage](https://uahig.github.io/Library-LandingPage/) | [:link: Aurora](https://uahig.github.io/Aurora/) |
+| [:link: YouTubeClone](https://uahig.github.io/Youtube-clone/) |           |           |
 ---
 ### 🤝 Social natworks:
 
