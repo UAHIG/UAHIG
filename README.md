@@ -61,7 +61,8 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 ---
 - :heavy_check_mark: **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://drive.google.com/file/d/1JcXSJ3mi9MQXVT0soTQiBP8pcQpt3g_h/view?usp=sharing)
 ---
-### :tada: My projects:
+### :briefcase: My projects:
+<table>
 - :link: [![Git Bage](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/API_Image-Gallery/)
 - :link: [![Git Bage](https://img.shields.io/badge/-JSAudioPlayer-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-AudioPlayer/)
 - :link: [![Git Bage](https://img.shields.io/badge/-JSPocketGame-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-PocketGame/)
@@ -69,6 +70,40 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 - :link: [![Git Bage](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
 - :link: [![Git Bage](https://img.shields.io/badge/-Aurora-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Aurora/)
 - :link: [![Git Bage](https://img.shields.io/badge/-YouTubeClone-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Youtube-clone/)
+</table>
+
+<table>
+  <tr>
+    <td>
+      :link: [![Git Badge](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/API_Image-Gallery/)
+    </td>
+    <td>
+      :link: [![Git Badge](https://img.shields.io/badge/-JSAudioPlayer-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-AudioPlayer/)
+    </td>
+    <td>
+      :link: [![Git Badge](https://img.shields.io/badge/-JSPocketGame-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-PocketGame/)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      :link: [![Git Badge](https://img.shields.io/badge/-MemeSliderOnlyCSS-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/MemeSlider-onlyCSS/)
+    </td>
+    <td>
+      :link: [![Git Badge](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
+    </td>
+    <td>
+      :link: [![Git Badge](https://img.shields.io/badge/-Aurora-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Aurora/)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      :link: [![Git Badge](https://img.shields.io/badge/-YouTubeClone-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Youtube-clone/)
+    </td>
+    <td></td> <!-- Пустая ячейка, если вам нужно только две ссылки в последнем столбце -->
+    <td></td> <!-- Пустая ячейка, если вам нужно только две ссылки в последнем столбце -->
+  </tr>
+</table>
+
 ---
 ### 🤝 Social natworks:
 
