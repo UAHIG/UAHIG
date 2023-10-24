@@ -57,7 +57,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 - :zap: RS School Course «JavaScript/Front-end. Stage 0» (in progress)
 ---
-### :mailbox: Contact me:[![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uahig) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
+### :mailbox: Contact me:  [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uahig) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
 
 - :heavy_check_mark: **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://drive.google.com/file/d/1JcXSJ3mi9MQXVT0soTQiBP8pcQpt3g_h/view?usp=sharing)
 ---
