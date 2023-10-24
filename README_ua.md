@@ -57,7 +57,7 @@
 
 - :zap: RS School Course «JavaScript/Front-end. Stage 0» (in progress)
 ---
-### :mailbox: Contact me:&nbsp  [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uahig) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
+### :mailbox: Напишіть мені:  [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uahig) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
 
 - :heavy_check_mark: **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://drive.google.com/file/d/1JcXSJ3mi9MQXVT0soTQiBP8pcQpt3g_h/view?usp=sharing)
 ---
@@ -70,7 +70,7 @@
 - :link: [![Git Bage](https://img.shields.io/badge/-MemeSliderOnlyCSS-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/MemeSlider-onlyCSS/)
 - :link: [![Git Bage](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/API_Image-Gallery/)
 ---
-### 🤝 Social natworks:
+### 🤝 Соціальні мережі:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/uahig" target="_blank">
@@ -86,7 +86,7 @@
 
 ---
 
-### 💻 Technologies:
+### 💻 Технології:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -114,7 +114,7 @@ this.up = function() { return ++count; }; this.down = function() { return –cou
 let counter = new Counter();
 alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 ```
-### 🛠 Tools:
+### 🛠 Інструменти:
 
 <div>
  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp; -->
@@ -129,7 +129,7 @@ alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 
 ---
 
- ### 💻 Courses:
+ ### 💻 Курси:
 
 | Course:                                                         | Date:             |
 | ----------------------------------------------------------------| :---------------: |
@@ -137,7 +137,7 @@ alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 | EPAM Front-End Self-Paced Online Program                        | 03/2022 - 08/2022 |
 | RS School Course «JavaScript/Front-end. Stage 0»                | 07/2023 - 10/2023 |
 
-### Languages:
+### Мови:
 
 - **Англійська:** B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
 - **Російська:** Рідна
