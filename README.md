@@ -69,12 +69,6 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 - :link: [![Git Bage](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
 - :link: [![Git Bage](https://img.shields.io/badge/-Aurora-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Aurora/)
 - :link: [![Git Bage](https://img.shields.io/badge/-YouTubeClone-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Youtube-clone/)
-
-| Столбец 1 | Столбец 2 | Столбец 3 |
-|-----------|-----------|-----------|
-| [:link: APIImageGallery](https://uahig.github.io/API_Image-Gallery/) | [:link: JSAudioPlayer](https://uahig.github.io/JS-AudioPlayer/) | [:link: JSPocketGame](https://uahig.github.io/JS-PocketGame/) |
-| [:link: MemeSliderOnlyCSS](https://uahig.github.io/MemeSlider-onlyCSS/) | [:link: LibraryLandingPage](https://uahig.github.io/Library-LandingPage/) | [:link: Aurora](https://uahig.github.io/Aurora/) |
-| [:link: YouTubeClone](https://uahig.github.io/Youtube-clone/) |           |           |
 ---
 ### 🤝 Social natworks:
 
