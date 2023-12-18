@@ -64,6 +64,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 ### :briefcase: My projects:
 - :link: [![Git Bage](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
 - :link: [![Git Bage](https://img.shields.io/badge/-JSPocketGame-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-PocketGame/)
+- :link: [![Git Bage](https://img.shields.io/badge/-CoffeHouse-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Coffe-house/)
 - :link: [![Git Bage](https://img.shields.io/badge/-JSAudioPlayer-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-AudioPlayer/)
 - :link: [![Git Bage](https://img.shields.io/badge/-Aurora-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Aurora/)
 - :link: [![Git Bage](https://img.shields.io/badge/-YouTubeClone-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Youtube-clone/)
