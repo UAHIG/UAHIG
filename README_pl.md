@@ -59,7 +59,7 @@ Dążę do ciągłego samorozwoju i rozszerzania swojej wiedzy i umiejętności.
 ---
 ### :mailbox: Jak się skontaktować:  [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uahig) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
 
-- :heavy_check_mark: **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://drive.google.com/file/d/1-0ge30jkHgZJubV4J8egYYET2sl1q806/view?usp=sharing)
+- :heavy_check_mark: **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://drive.google.com/file/d/178gkMCcfv-SZ_zgjK8ukMc5gLsuD3cJj/view?usp=sharing)
 ---
 ### :briefcase: Moje Projekty:
 - :link: [![Git Bage](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
