@@ -63,6 +63,7 @@ Dążę do ciągłego samorozwoju i rozszerzania swojej wiedzy i umiejętności.
 - :heavy_check_mark: **My Page**: FrontendGolosnyy: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://uahig.github.io/CV-Frontend-Golosnyy) 
 ---
 ### :briefcase: Moje Projekty:
+- :link: [![Git Bage](https://img.shields.io/badge/-BoiNK-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/store/)
 - :link: [![Git Bage](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
 - :link: [![Git Bage](https://img.shields.io/badge/-JSPocketGame-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-PocketGame/)
 - :link: [![Git Bage](https://img.shields.io/badge/-JSAudioPlayer-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-AudioPlayer/)
