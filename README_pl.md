@@ -59,7 +59,7 @@ Pasjonuję się nowoczesnymi technologiami webowymi, systemami projektowymi oraz
 ---
 ### :mailbox: Jak się skontaktować:  [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uahig) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
 
-- :heavy_check_mark: **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)] (https://docs.google.com/document/d/1LleIvSS4_CIvVcI-Np2Ul7rjlEMt-bqdydQmDENy3kg/export?format=pdf)
+- :heavy_check_mark: **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://docs.google.com/document/d/1LleIvSS4_CIvVcI-Np2Ul7rjlEMt-bqdydQmDENy3kg/export?format=pdf)
 
 ---
 ### :briefcase: Moje Projekty:
