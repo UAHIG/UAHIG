@@ -41,11 +41,11 @@
 
 ### :man_technologist: Krótko o sobie:
 
-Obecnie uczę się programowania, a jako osoba kreatywna, inspiruje mnie perspektywa pracy jako Frontend Developer.
+Front-End Developer z ponad 2-letnim doświadczeniem, dostarczający rozwiązania zarówno dla projektów zdalnych, jak i stacjonarnych.
 
-Rozpocząłem swoją karierę jako inżynier projektant w 2005 roku. Od 2007 roku pracuję w innowacyjnej firmie produkującej elastyczną opakowalnię, awansując z inżyniera do przygotowania produkcji na stanowisko Głównego Technologa.
+Doświadczony w kompleksowym procesie tworzenia aplikacji — od zbierania wymagań i projektowania UI/UX po implementację responsywnych interfejsów, dostępności oraz wysokiego pokrycia testami. Specjalizuję się w budowie skalowalnych aplikacji w React, Redux i TypeScript, z naciskiem na wydajność i czystą architekturę.
 
-Dążę do ciągłego samorozwoju i rozszerzania swojej wiedzy i umiejętności. Moim celem jest rozwijanie się zawodowo i osiąganie doskonałych wyników, które przyczyniają się do sukcesu firmy. Jestem gotów przejmować odpowiedzialność i pracować w dynamicznym środowisku, gdzie mogę wnosić swój wkład i rozwijać się zawodowo.
+Pasjonuję się nowoczesnymi technologiami webowymi, systemami projektowymi oraz nowymi narzędziami wspomagającymi rozwój z wykorzystaniem AI. Lubię pisać artykuły techniczne, współtworzyć projekty open source oraz prezentować swoje prace potencjalnym klientom.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
